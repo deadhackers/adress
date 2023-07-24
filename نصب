@@ -1,0 +1,5 @@
+	git clone https://github.com/adress/OPRecon
+cd deadhackers
+python3 -m pip install -r requirements.txt
+chmod +x *
+bash run.sh
