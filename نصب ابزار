@@ -1,2 +1,7 @@
 # adress
 این ابزار قراره با استفاده از شماره تلفن ادرس دقیق رو بهتون بده   و فعلا تکمیل نشده ....
+   git clone https://github.com/deadhackers/adress
+   cd adress
+   python3 -m pip install -r requirements.txt
+chmod +x *
+bash run.sh
