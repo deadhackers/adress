@@ -13,8 +13,8 @@ clear
 printf "\n \e[1;92mUpdating \e[1;94m@deadhackers\e[1;92m ...\n\n"
 sleep 1.5
 cd ..
-rm -rf adress
-cd adress
+rm -rf deadhackers.sh
+cd deadhackers
 chmod +x run.sh
 printf "\n\e[1;92mRestarting ...\n\e[0m"
 bash run.sh
